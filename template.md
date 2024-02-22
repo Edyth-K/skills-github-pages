@@ -16,19 +16,7 @@ date: 2024-02-19
 
 ## HTML/CSS/JS through [The Odin Project](https://www.theodinproject.com/)
 
-After today, going to switch to Daily Updates for this.
-
-What I've learned so far:
-
-* Set Up Ubuntu VM + Command Line Basics
-* Git Basics
-* HTML Foundations
-* CSS Foundations
-* Flexbox
-
-
-Currently on the flexbox project: building a landing page (put under
-projects after a repository is made).
+No Daily Update
 
 # II. LeetCode
 <!--- 
