@@ -1,4 +1,4 @@
 ---
-my blog: learning is never-ending
+title: Test
 ---
 
